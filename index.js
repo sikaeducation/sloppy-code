@@ -9,5 +9,5 @@ some_button = some_buttons[  0  ]
   some_array.forEach(   function  (  x  )
 {
   console.log(    x);
-});
-)
+})
+);
